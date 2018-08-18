@@ -444,9 +444,20 @@ mark,
   list-style: none;
 }
 
+.list-inline-front-page {
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+  
+}
+
 .list-inline {
   padding-left: 0;
   list-style: none;
+}
+
+.list-inline-item-front-page {
+  display: inline-block;
 }
 
 .list-inline-item {
@@ -7675,6 +7686,13 @@ button.bg-dark:focus {
 }
 
 .mt-auto,
+
+.my-front-page {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
 .my-auto {
   margin-top: auto !important;
 }

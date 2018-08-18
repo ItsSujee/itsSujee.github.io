@@ -3,12 +3,12 @@ body {
   padding-top: 54px;
   color: #868e96;
   overscroll-behavior-y: none;
+  background-color: #1B1B1B;
 }
 
-@media (min-width: 992px) {
+@media {
   body {
     padding-top: 0;
-    padding-left: 17rem;
   }
 }
 
@@ -18,15 +18,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #343a40;
+  font-family: 'Futura', serif;
+  color: #FFFFFF;
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  text-align: center;
+  font-size: 4rem;
+  line-height: 10rem;
 }
 
 h2 {
@@ -36,7 +35,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Open Sans', serif;
   font-size: 1.35rem;
 }
 
@@ -60,51 +59,6 @@ h2 {
   color: #83B692;
 }
 
-#sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-@media (min-width: 992px) {
-  #sideNav {
-    text-align: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: flex;
-    flex-direction: column;
-    width: 17rem;
-    height: 100vh;
-  }
-  #sideNav .navbar-brand {
-    display: flex;
-    margin: auto auto 0;
-    padding: 0.5rem;
-  }
-  #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
-  }
-  #sideNav .navbar-collapse {
-    display: flex;
-    align-items: flex-start;
-    flex-grow: 0;
-    width: 100%;
-    margin-bottom: auto;
-  }
-  #sideNav .navbar-collapse .navbar-nav {
-    flex-direction: column;
-    width: 100%;
-  }
-  #sideNav .navbar-collapse .navbar-nav .nav-item {
-    display: block;
-  }
-  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
-    display: block;
-  }
-}
-
 section.resume-section {
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
@@ -115,7 +69,7 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
-@media (min-width: 768px) {
+@media {
   section.resume-section {
     min-height: 100vh;
   }
@@ -124,7 +78,7 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-@media (min-width: 992px) {
+@media {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
@@ -136,13 +90,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #83B692 !important;
+  color: #FFFFFF !important;
 }
 
 a {
-  color: #83B692;
+  color: #FFFFFF;
 }
 
 a:hover, a:focus, a:active {
-  color: #60856B;
+  color: #FFFFFF;
 }
