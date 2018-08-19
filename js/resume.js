@@ -26,3 +26,18 @@
   });
 
 })(jQuery); // End of use strict
+
+
+function runTest(){
+        console.log("Wow, you're good!"); 
+        console.log("Now try run the function 'testTwo' and pass the string 'CODING' for the parameter");
+}
+
+function testTwo(x){
+    if (x === "CODING"){
+        console.log("Wow, you're good!"); 
+        console.log("The answer is 'SYNTAX ERROR'");
+    } else {
+        console.log("That doesn't seem right?"); 
+    }
+}
