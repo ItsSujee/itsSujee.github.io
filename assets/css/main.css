@@ -4250,12 +4250,23 @@ input, select, textarea {
 		overflow-x: hidden;
 	}
 
-		.banner.style5 .content {
+		.banner.style5 .content img {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
 			margin-bottom: 2rem;
 			z-index: 1;
+            -moz-flex-grow: 0;
+			-webkit-flex-grow: 0;
+			-ms-flex-grow: 0;
+			flex-grow: 0;
+			-moz-flex-shrink: 0;
+			-webkit-flex-shrink: 0;
+			-ms-flex-shrink: 0;
+			flex-shrink: 0;
+			
+			min-width: 25rem;
+			border-radius: 0;
 		}
 
 		.banner.style5 .image {
