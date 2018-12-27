@@ -1,4 +1,4 @@
-Created by Sujeethan Vigneswaran
-University of Waterloo
-Environmental Engineering
+Created by Sujeethan Vigneswaran <br>
+University of Waterloo <br>
+Environmental Engineering <br>
 2019
