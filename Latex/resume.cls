@@ -10,7 +10,7 @@
 \pagestyle{empty} % Suppress page numbers
 
 %----------------------------------------------------------------------------------------
-%	HEADINGS COMMANDS: Commands for printing name and address
+% HEADINGS COMMANDS: Commands for printing name and address
 %----------------------------------------------------------------------------------------
 
 \def \name#1{\def\@name{#1}} % Defines the \name command to set name
@@ -54,7 +54,7 @@
 }
 
 %----------------------------------------------------------------------------------------
-%	PRINT THE HEADING LINES
+% PRINT THE HEADING LINES
 %----------------------------------------------------------------------------------------
 
 \let\ori@document=\document
@@ -70,7 +70,7 @@
 }
 
 %----------------------------------------------------------------------------------------
-%	SECTION FORMATTING
+% SECTION FORMATTING
 %----------------------------------------------------------------------------------------
 
 % Defines the rSection environment for the large sections within the CV
@@ -80,7 +80,7 @@
   \sectionlineskip
   \hrule % Horizontal line
   \begin{list}{}{ % List for each individual item in the section
-    \setlength{\leftmargin}{1.5em} % Margin within the section
+    \setlength{\leftmargin}{0.5em} % Margin within the section
   }
   \item[]
 }{
@@ -88,7 +88,7 @@
 }
 
 %----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE FORMATTING
+% WORK EXPERIENCE FORMATTING
 %----------------------------------------------------------------------------------------
 
 \newenvironment{rSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
@@ -97,7 +97,7 @@
   \\
   {#3} \hfill {#4} % Italic job title and location
   }\smallskip
-  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+  \begin{list}{$\cdot$}{\leftmargin=0.5em} % \cdot used for bullets, no indentation
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
   }{
   \end{list}
@@ -110,3 +110,4 @@
 \def\sectionlineskip{\medskip} % The space above the horizontal line for each section 
 \def\nameskip{\bigskip} % The space after your name at the top
 \def\sectionskip{\medskip} % The space after the heading section
+
