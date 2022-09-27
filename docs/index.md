@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# 👋🏾 Hello!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my corner of the internet!
 
-## Commands
+## 👨🏽‍💻 Who Am I?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I'm a digital product manager
 
-## Project layout
+## 🏗️ Things I built
 
-    mkdocs.yml    # The configuration file.
+    www.sujeethanvigneswaran.com    # Home Page
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## 🌿 Environmentalism
+
+trees
+
+## Lorem ipsum 2
+<br><br>
+
+## Lorem ipsum 3
+<br><br>
+
+## Lorem ipsum 4
+<br><br>
+
