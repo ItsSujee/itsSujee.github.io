@@ -1,28 +1,38 @@
-# 👋🏾 Hello!
+# Home
+
+## 👋🏾 Hello!
 
 Welcome to my corner of the internet!
 
+My name is **Sujeethan Vigneswaran**, but I usually go by **Sujee**
+
 ## 👨🏽‍💻 Who Am I?
 
-I'm a digital product manager
+I work in the intersection of Product Management & Site Reliability Engineering
 
-## 🏗️ Things I built
+![Intersection of PM and SRE](/assets/images/PM_SRE.jpg "Intersection of PM and SRE")
 
-    www.sujeethanvigneswaran.com    # Home Page
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🏗️ Products I've built
+
+### PC Optimum Points Days 2022
+
+[![Points Days 2022](/assets/images/pointsdays.jpg "Points Days 2022")](https://www.pcoptimum.ca/pointsdays)
+
+### PC Optimum Insiders
+
+[![PCOI Subscription](/assets/images/pcoi.jpg "PCOI Subscription")](https://www.pcoptimum.ca/insiders/en)
 
 ## 🌿 Environmentalism
 
-trees
+I was named one of [Canada's Top 25 Under 25 Environmentalists](https://thestarfish.ca/journal/2018/06/2018-sftop25-finalist-sujeethan-vigneswaran-2) for my work on the Rouge National Urban Park.
 
-## Lorem ipsum 2
-<br><br>
+![Starfish Canada Feature Image](/assets/images/starfish.jpg "Starfish Canada Feature Image")
 
-## Lorem ipsum 3
-<br><br>
+## 🗺️ Site Map
 
-## Lorem ipsum 4
-<br><br>
-
+    Public:
+        www.sujeethanvigneswaran.com    # Home Page
+        resume.sujeethanvigneswaran.com    # Resume
+    Tailscale VPN:
+        omv.sujeethanvigneswaran.com/#/login    # Self hosted Open Media Vault Server
+        omv.sujeethanvigneswaran.com:32400/web/index.html    # Self Hosted Plex Server
