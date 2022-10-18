@@ -17,6 +17,10 @@ theme:
     - navigation.indexes
     - toc.follow
     - toc.integrate
+nav:
+  - Home: 'index.md'
+  - 'Blog':
+    - 'Mac Create Windows Installation USB' : 'blog/mac-create-windows-bootable-usb.md'
 plugins:
   - search:
       lang: en

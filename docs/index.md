@@ -30,9 +30,5 @@ I was named one of [Canada's Top 25 Under 25 Environmentalists](https://thestarf
 
 ## 🗺️ Site Map
 
-    Public:
-        www.sujeethanvigneswaran.com    # Home Page
-        resume.sujeethanvigneswaran.com    # Resume
-    Tailscale VPN:
-        omv.sujeethanvigneswaran.com/#/login    # Self hosted Open Media Vault Server
-        omv.sujeethanvigneswaran.com:32400/web/index.html    # Self Hosted Plex Server
+    www.sujeethanvigneswaran.com    # Home Page
+    resume.sujeethanvigneswaran.com    # Resume
