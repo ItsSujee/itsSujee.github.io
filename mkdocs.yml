@@ -21,6 +21,7 @@ nav:
   - Home: 'index.md'
   - 'Blog':
     - 'Mac Create Windows Installation USB' : 'blog/mac-create-windows-bootable-usb.md'
+    - 'Mac Stop Sleeping' : 'blog/mac-stop-sleeping.md'
 plugins:
   - search:
       lang: en
