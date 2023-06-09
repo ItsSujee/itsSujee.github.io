@@ -13,8 +13,10 @@ theme:
   favicon: assets/images/favicon.ico
   features:
   plugins:
-    - social
     - search
+    - social:
+      cards_layout: default
+      cards_dir: assets/images/social
 repo_name: itssujee/homepage
 repo_url: https://github.com/itssujee/itssujee.github.io
 extra:
