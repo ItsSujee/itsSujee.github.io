@@ -1,4 +1,12 @@
-# Home
+---
+hide:
+  - navigation
+  - toc
+  - footer
+  - path
+---
+
+# Sujeethan Vigneswaran Homepage
 
 ## 👋🏾 Hello!
 
