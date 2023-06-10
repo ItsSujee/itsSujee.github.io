@@ -1,4 +1,5 @@
 ---
+title:
 hide:
   - navigation
   - toc
@@ -6,37 +7,37 @@ hide:
   - path
 ---
 
-# Sujeethan Vigneswaran Homepage
+# **Sujeethan Vigneswaran Portfolio** {: style="text-align:center;color:black"}
 
-## 👋🏾 Hello!
+## 👋🏾 **Hello, Welcome to my corner of the internet!** {: style="text-align:center"}
 
-Welcome to my corner of the internet!
+### My name is **Sujeethan Vigneswaran**, but I usually go by **Sujee** {: style="text-align:center"}
 
-My name is **Sujeethan Vigneswaran**, but I usually go by **Sujee**
+<br>
 
-## 👨🏽‍💻 Who Am I?
+![Coffee](/assets/images/CoffeeDoodle.png "Coffee"){: style="height:auto;width:40%" .center}
 
-I work in the intersection of Product Management & Site Reliability Engineering
+## 👨🏽‍💻 **About Me** {: style="text-align:center"}
 
-![Intersection of PM and SRE](/assets/images/PM_SRE.jpg "Intersection of PM and SRE")
+### A Site Reliability Engineer with a Product Management background, adept at combining **technical expertise** with **customer-centric thinking** to deliver highly reliable and user-friendly software systems. {: style="text-align:justify"}
 
-## 🏗️ Products I've built
+## **Check out my 📝 [Blog](https://docs.sujeethanvigneswaran.com) to see what I've been building lately ** {: style="text-align:center"}
 
-### PC Optimum Points Days 2022
+![Strolling](/assets/images/StrollingDoodle.png "Strolling"){: style="height:auto;width:40%" .center}
 
-[![Points Days 2022](/assets/images/pointsdays.jpg "Points Days 2022")](https://www.pcoptimum.ca/pointsdays)
+## ☎️ **Contact Me: ** {: style="text-align:center"}
 
-### PC Optimum Insiders
+[:fontawesome-brands-linkedin: LinkedIn ](#){ .md-button .md-button--primary .contact-button}
+[:material-github: GitHub ](#){ .md-button .md-button--primary .contact-button}
+[:fontawesome-brands-twitter: Twitter ](#){ .md-button .md-button--primary .contact-button}
+[:material-email: Email ](#){ .md-button .md-button--primary .contact-button}
+[:material-email: Resume ](https://resume.sujeethanvigneswaran.com){ .md-button .md-button--primary .contact-button}
+[:material-email: Blog ](https://resume.sujeethanvigneswaran.com){ .md-button .md-button--primary .contact-button}
 
-[![PCOI Subscription](/assets/images/pcoi.jpg "PCOI Subscription")](https://www.pcoptimum.ca/insiders/en)
+## 🗺️ **Site Map** {: style="text-align:center"}
 
-## 🌿 Environmentalism
-
-I was named one of [Canada's Top 25 Under 25 Environmentalists](https://thestarfish.ca/journal/2018/06/2018-sftop25-finalist-sujeethan-vigneswaran-2) for my work on the Rouge National Urban Park.
-
-![Starfish Canada Feature Image](/assets/images/starfish.jpg "Starfish Canada Feature Image")
-
-## 🗺️ Site Map
-
-    www.sujeethanvigneswaran.com    # Home Page
-    resume.sujeethanvigneswaran.com    # Resume
+[🚀 Homepage ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
+[🚀 Status ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
+[🚀 Plex ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
+[🚀 Prometheus ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
+[🚀 Grafana ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}

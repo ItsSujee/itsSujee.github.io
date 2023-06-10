@@ -1,10 +1,11 @@
 site_name: Sujeethan Vigneswaran
+extra_css: [extra.css]
 theme:
   icon:
     repo: fontawesome/brands/github
   name: material
   palette: 
-    scheme: slate
+    scheme: default
     primary: indigo
     accent: indigo
     text: Roboto
@@ -37,5 +38,10 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:sujeethan.vigneswaran@gmail.com
       name: Sujee on Email
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 copyright: Designed by Sujee in Canada 🇨🇦
 
