@@ -39,7 +39,7 @@ hide:
 | Services:                          |
 | :-------------------------------------------: |
 |[💻 Homelab ](https://homelab.sujeethanvigneswaran.com)        |
-|[🚀 Status ](https://status.sujeethanvigneswaran.com)        |
+|[🚀 Status ](https://status.sujeethanvigneswaran.com/status/homelab)        |
 |[📺 Plex ](https://plex.sujeethanvigneswaran.com)        |
 |[🛜 Prometheus ](https://prometheus.sujeethanvigneswaran.com)        |
 |[🔎 Grafana ](https://grafana.sujeethanvigneswaran.com)        |
