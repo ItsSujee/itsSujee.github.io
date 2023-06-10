@@ -33,14 +33,13 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/itssujee
       name: Sujee on GitHub
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/itssujee
-      name: Sujee on Twitter
     - icon: fontawesome/solid/envelope
       link: mailto:sujeethan.vigneswaran@gmail.com
       name: Sujee on Email
 markdown_extensions:
+  - tables
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

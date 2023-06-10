@@ -26,17 +26,20 @@ hide:
 
 ## ☎️ **Contact Me: ** {: style="text-align:center"}
 
-[:fontawesome-brands-linkedin: LinkedIn ](#){ .md-button .md-button--primary .contact-button}
-[:material-github: GitHub ](#){ .md-button .md-button--primary .contact-button}
-[:fontawesome-brands-twitter: Twitter ](#){ .md-button .md-button--primary .contact-button}
-[:material-email: Email ](#){ .md-button .md-button--primary .contact-button}
-[:material-email: Resume ](https://resume.sujeethanvigneswaran.com){ .md-button .md-button--primary .contact-button}
-[:material-email: Blog ](https://resume.sujeethanvigneswaran.com){ .md-button .md-button--primary .contact-button}
+| Contact Links:                                 |
+| :-------------------------------------------: |
+| [:material-email: Email](mailto:sujeethan.vigneswaran@gmail.com)                    |
+| [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/sujeethan-vigneswaran/)        |
+| [:material-github: GitHub](https://github.com/itssujee)                      |
+| [:material-note-text: Resume ](https://resume.sujeethanvigneswaran.com) |
+| [:material-note: Blog ](https://docs.sujeethanvigneswaran.com)          |
 
 ## 🗺️ **Site Map** {: style="text-align:center"}
 
-[🚀 Homepage ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
-[🚀 Status ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
-[🚀 Plex ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
-[🚀 Prometheus ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
-[🚀 Grafana ](https://status.sujeethanvigneswaran.com){ .md-button .md-button--primary .button-center}
+| Services:                          |
+| :-------------------------------------------: |
+|[💻 Homelab ](https://homelab.sujeethanvigneswaran.com)        |
+|[🚀 Status ](https://status.sujeethanvigneswaran.com)        |
+|[📺 Plex ](https://plex.sujeethanvigneswaran.com)        |
+|[🛜 Prometheus ](https://prometheus.sujeethanvigneswaran.com)        |
+|[🔎 Grafana ](https://grafana.sujeethanvigneswaran.com)        |
