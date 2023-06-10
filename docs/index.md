@@ -1,10 +1,9 @@
 ---
-title:
+title: ""
 hide:
   - navigation
   - toc
   - footer
-  - path
 ---
 
 # **Sujeethan Vigneswaran Portfolio** {: style="text-align:center;color:black"}
