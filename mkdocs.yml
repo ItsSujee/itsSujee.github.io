@@ -12,10 +12,7 @@ theme:
     code: Roboto Mono
   logo: assets/logo.png
   favicon: assets/images/favicon.ico
-  features:
-  - header.autohide
   plugins:
-    - search
     - social:
       cards_layout: default
       cards_dir: assets/images/social
@@ -37,11 +34,10 @@ extra:
       link: mailto:sujeethan.vigneswaran@gmail.com
       name: Sujee on Email
 markdown_extensions:
-  - tables
   - attr_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 copyright: Designed by Sujee in Canada 🇨🇦
 
